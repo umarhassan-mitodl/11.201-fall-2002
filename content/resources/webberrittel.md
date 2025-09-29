@@ -4,6 +4,8 @@ description: Discussion questions on Webber & Rittel (Wicked Problems)
 file: /courses/11-201-gateway-planning-action-fall-2002/520bd50f7ccfa302673933b2ba88787f_WebberRittel.pdf
 file_size: 42448
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

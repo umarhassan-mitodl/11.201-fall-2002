@@ -4,6 +4,8 @@ description: Discussion questions on Davidoff
 file: /courses/11-201-gateway-planning-action-fall-2002/05167ee1b33f67d919524fbfb746cfd4_Davidoff.pdf
 file_size: 42958
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Building a post-polder planning process: planning in a changing en
 file: /courses/11-201-gateway-planning-action-fall-2002/28a9e87e3ebcf8d86abe3e068029f816_rotterdamgroup1.pdf
 file_size: 673342
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

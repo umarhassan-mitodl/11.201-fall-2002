@@ -5,6 +5,8 @@ description: Key Dilemmas in Planning Practice [Key dilemmas in thinking about p
 file: /courses/11-201-gateway-planning-action-fall-2002/494de851d5335a059f0d669cebdafbea_Dilemmas.pdf
 file_size: 37196
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

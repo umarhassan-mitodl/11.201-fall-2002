@@ -5,6 +5,8 @@ description: 'Write a memo addressing the questions below, to be submitted at th
 file: /courses/11-201-gateway-planning-action-fall-2002/d1e222439227c1a7c811211bf9426845_UnitIIMemo.pdf
 file_size: 38766
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
