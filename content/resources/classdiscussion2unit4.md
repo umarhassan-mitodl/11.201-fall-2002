@@ -5,8 +5,6 @@ description: 'Here are some questions to help you in thinking about the 4 group 
 file: /courses/11-201-gateway-planning-action-fall-2002/f392353702b645542607f03fc5efef8c_ClassDiscussion2Unit4.pdf
 file_size: 47789
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

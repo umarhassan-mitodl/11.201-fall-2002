@@ -4,8 +4,6 @@ description: 'South End: A New Strategy'
 file: /courses/11-201-gateway-planning-action-fall-2002/6607dd09b86ea6669218ee2dd3623edf_boston4.pdf
 file_size: 202506
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

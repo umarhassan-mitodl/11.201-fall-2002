@@ -5,8 +5,6 @@ description: 'Below are the guidelines for the group projects to be presentedin 
 file: /courses/11-201-gateway-planning-action-fall-2002/3302c3b44a07c85172810689cc51241e_GroupProjectPresentationsUnit4.pdf
 file_size: 41012
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

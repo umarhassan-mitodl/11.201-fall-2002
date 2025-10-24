@@ -4,8 +4,6 @@ description: Discussion questions on Wildavsky
 file: /courses/11-201-gateway-planning-action-fall-2002/44c556104435a1256b14fd366a8155fb_Wildavsky.pdf
 file_size: 46080
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

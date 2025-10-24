@@ -4,8 +4,6 @@ description: Friedmann Discussion Questions
 file: /courses/11-201-gateway-planning-action-fall-2002/a53abaa776374134d82d11dadf59a6de_Friedmann.pdf
 file_size: 27779
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

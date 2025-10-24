@@ -5,8 +5,6 @@ description: 'COMPREHENSIVE NEIGHBORHOOD PLANNING: TAKING ACTION IN BOSTON''S SO
 file: /courses/11-201-gateway-planning-action-fall-2002/53841da49572770d0682dfe2f2f64418_Boston.pdf
 file_size: 129839
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Discussion questions on Meyerson and Banfield
 file: /courses/11-201-gateway-planning-action-fall-2002/38761b34ec0e93c0c044baf3bf73b046_MeyersonBanfield.pdf
 file_size: 45686
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

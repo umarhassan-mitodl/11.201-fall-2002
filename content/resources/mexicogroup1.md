@@ -4,8 +4,6 @@ description: Mexico City Airport Planning
 file: /courses/11-201-gateway-planning-action-fall-2002/f1908fe27b7e0dd414f3382035163b7f_mexicogroup1.pdf
 file_size: 162814
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

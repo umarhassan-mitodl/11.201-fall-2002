@@ -4,8 +4,6 @@ description: 'Prepare these questions for discussion in class for lecture #5'
 file: /courses/11-201-gateway-planning-action-fall-2002/38bb98790c0546c59a45177763bf8c89_ClassDiscussionUnit2.pdf
 file_size: 45023
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

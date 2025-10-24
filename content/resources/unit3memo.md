@@ -4,8 +4,6 @@ description: Assignment guidelines for the individual memos on Unit III will are
 file: /courses/11-201-gateway-planning-action-fall-2002/ce93fe6c18f3c530ea81b64ce0baa80a_Unit3Memo.pdf
 file_size: 43044
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

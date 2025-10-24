@@ -4,8 +4,6 @@ description: 'Planning for Mexico City: Pushing the Limits'
 file: /courses/11-201-gateway-planning-action-fall-2002/33d62cbccfa7fe7f721cb0a21478fc73_mexicogroup2.pdf
 file_size: 1004729
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

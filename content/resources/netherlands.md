@@ -4,8 +4,6 @@ description: A planning problem in the Netherlands
 file: /courses/11-201-gateway-planning-action-fall-2002/ef2633b9c0b0d56c20c3e57b2eb5ad63_Netherlands.pdf
 file_size: 550189
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

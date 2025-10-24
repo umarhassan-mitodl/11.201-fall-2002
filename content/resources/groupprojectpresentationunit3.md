@@ -4,8 +4,6 @@ description: 'Group Project Questions to be presented for lecture #11'
 file: /courses/11-201-gateway-planning-action-fall-2002/4c856b37e30eaa877aebbdd38b9307d4_GroupProjectPresentationUnit3.pdf
 file_size: 40845
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
